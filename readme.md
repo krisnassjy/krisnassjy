@@ -1,18 +1,18 @@
 <!--   my-header-img -->
 ![](./src/header_.png)
-<img src="https://github.com/BEPb/BEPb/blob/main/src/header_.png" align="center">
+<img src="https://img.freepik.com/premium-vector/coding-system-banner_87720-2994.jpg?w=2000" width="100%" align="center">
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Krisna+Sanjaya;+Welcome+to+My+Profile!;Over+3+years+of+programming+experience;Always+learning+new+things+;Web+Development+enthusiast+;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Krisna+Sanjaya;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Always+learning+new+things+;Web+Development+enthusiast+;)](https://git.io/typing-svg)
 
-<h1> Hi 👋, I'm Krisna Sanjaya </h1>
-<!-- 
-***Explorer in Computer Science and Web Developer*** 
+<h1> Hi 👀, I'm Krisna Sanjaya 😎 </h1>
 
-<!-- <h2> :fire: About Me! </h2>
-<i>Currently majoring in Informatics Engineering at Institut Teknologi Bandung. Interested in full-stack web development. Still new about that stuff but looking for opportunity to work with others!</i> -->
+***Interest on Web Programming, IT Governance and Project Management*** 
 
-<h2> :eyes: Stats: </h2> -->
+<h2> :fire: About Me! </h2>
+<i> Informatics student that experienced in Project Management, Web Development and Database Management System. I have worked with project of ERP systems, helping, and coding their fullstack website development using React JS and Golang. I have worked with project of HCIS systems on Citilink Indonesia using Laravel 8 and PHPPGSQL. I have experienced with project of HC Platform on PT Hutama Karya (Persero) using React JS, Next JS and Material UI. I have worked also at PwC Indonesia to help the associate make documentation, observing and analyzing gap for the client project based. I am looking opportunities for implemented my skills in a virtual world. I know that web developer and project management is the future and I can take your company to a higher level with my expertise and contacts.</i>
+
+<h2> :eyes: Stats: </h2> 
 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
@@ -31,6 +31,15 @@ Counting of visitors to this page in this section started from June 12, 2022
 
 ![](https://count.getloli.com/get/@krisnassjy.github.readme)
 </br>
+
+<h2> 🖥️: Summary Project </h2>
+<ol>
+  <li>PT. Hutama Karya: IMPLEMENTATION FULL CYCLE MODULE HCIS (HUMAN CAPITAL INFORMATION SYSTEM)</li>
+  <li>PT. Citilink Indonesia: SUCCESSION MANAGEMENT & CAREER DEVELOPMENT PROGRAM SYSTEM</li>
+  <li>UNS: ERP SEKOLAH BERBASIS CLOUD</li>
+  <li>PT. Bank Rakyat Indonesia: 🔜</li>
+<ol>
+
 
 <!-- <p align="center">
 <a href="https://github.com/krisnassjy">
