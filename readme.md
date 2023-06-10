@@ -38,6 +38,7 @@ Counting of visitors to this page in this section started from June 12, 2022
   <li>PT. Citilink Indonesia: SUCCESSION MANAGEMENT & CAREER DEVELOPMENT PROGRAM SYSTEM</li>
   <li>UNS: ERP SEKOLAH BERBASIS CLOUD</li>
   <li>PT. Bank Rakyat Indonesia: 🔜</li>
+  <li>PT. Bank Central Asia: 🔜</li>
 <ol>
 
 
