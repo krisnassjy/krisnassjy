@@ -37,7 +37,7 @@ Counting of visitors to this page in this section started from June 12, 2022
   <li>PT. Hutama Karya: IMPLEMENTATION FULL CYCLE MODULE HCIS (HUMAN CAPITAL INFORMATION SYSTEM)</li>
   <li>PT. Citilink Indonesia: SUCCESSION MANAGEMENT & CAREER DEVELOPMENT PROGRAM SYSTEM</li>
   <li>UNS: ERP SEKOLAH BERBASIS CLOUD</li>
-  <li>PT. Bank Rakyat Indonesia: 🔜</li>
+  <li>PT. Bank Rakyat Indonesia: IBBIZ Internet Banking System</li>
   <li>PT. Bank Central Asia: 🔜</li>
 <ol>
 
